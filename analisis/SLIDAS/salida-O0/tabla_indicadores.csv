@@ -1,0 +1,9 @@
+Lenguaje,Indicador,Lineal,Binaria,Interpretación
+C++,"Comparaciones, n=100 000 (ausente)",100 000,16,La binaria hace 6 250 veces menos comparaciones
+C++,Mediana de tiempo (ns),412 000,130,Cociente de tiempos: 3 163x
+C++,Crecimiento observado (pendiente log-log del tiempo),0.99,0.11,~1 = lineal; ~0 = crece muy lento (logarítmico)
+C++,Costo de preparación (ns),0,11 716 250,Ordenar equivale a ~28.4 búsquedas lineales
+Python,"Comparaciones, n=100 000 (ausente)",100 000,16,La binaria hace 6 250 veces menos comparaciones
+Python,Mediana de tiempo (ns),3 515 250,1 564,Cociente de tiempos: 2 248x
+Python,Crecimiento observado (pendiente log-log del tiempo),1.03,0.12,~1 = lineal; ~0 = crece muy lento (logarítmico)
+Python,Costo de preparación (ns),0,28 767 350,Ordenar equivale a ~8.2 búsquedas lineales
