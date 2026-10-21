@@ -176,9 +176,7 @@ Tablas: [indicadores](resultados/analisis/tabla_indicadores.md) · [peor caso](r
 
 ## 9. Declaración de uso de IA
 
-> **Borrador: revise y ajuste según lo que realmente hizo.**
->
-> Se utilizó Claude (Anthropic) como asistente para organizar el código en módulos (C++ y Python), diseñar el esquema de medición por bloques, generar los scripts de tablas y gráficos, y revisar inconsistencias de la guía de práctica. El estudiante ejecutó los experimentos, verificó los resultados, interpretó los datos y redactó el informe, y es responsable del contenido entregado.
+> Los integrantes Gabriel Tito Quispe, Hanz Fredman Quispe Quispe y Elfer Jaime Machaca Quispe participaron en la preparación, ejecución, verificación e interpretación del trabajo experimental, así como en la revisión del contenido antes de la entrega. Se emplearon herramientas de inteligencia artificial únicamente como apoyo para organizar el código en módulos de C++ y Python, estructurar el esquema de medición por bloques, revisar inconsistencias de la guía, redactar y dar formato al informe en LaTeX, integrar tablas y figuras y verificar la compilación del PDF. Estas herramientas no sustituyeron la ejecución del experimento ni la revisión del equipo: los integrantes conservaron los códigos, datos crudos, mediciones y resultados, y son responsables del contenido.
 
 ## 10. Referencias (APA 7)
 
