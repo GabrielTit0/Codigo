@@ -7,7 +7,9 @@ Universidad Nacional del Altiplano · Facultad de Ingeniería Mecánica Eléctri
 | | |
 |---|---|
 | Docente | Mg. Aldo Hernán Zanabria Gálvez |
-| Estudiantes | Gabriel Tito Quispe | Hanz Fredman Quispe Quispe| Elfer Jaime Machaca Quispe |
+| Estudiante | Gabriel Tito Quispe | 
+| Esrudiante | Hanz Fredman Quispe Quispe | 
+| Estudiante | Elfer Jaime Machaca Quispe |
 | Código | 251211 |
 | Experimento | EXP-AED-002 |
 
