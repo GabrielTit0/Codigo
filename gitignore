@@ -1,0 +1,19 @@
+# Dataset original y derivado (se descarga/genera siguiendo el README)
+datos/Online Retail.xlsx
+datos/datos.csv
+
+# Binarios compilados
+cpp/experimento
+cpp/experimento.exe
+cpp/main
+cpp/main.exe
+*.o
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.idea/
